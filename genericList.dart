@@ -7,7 +7,6 @@ void main() {
   print(products[0].productName+" "+products[0].productPrice.toString());
   print(products[1].productName+" "+products[1].productPrice.toString());
 }
-
 class Product{
   String productName;
   double productPrice;
